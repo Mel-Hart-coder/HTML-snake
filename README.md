@@ -1,2 +1,2 @@
-# HTML-snake
-Building Snake with HTML, CSS, and HTML
+# Snake
+Building Snake with Javascript, CSS, and HTML
